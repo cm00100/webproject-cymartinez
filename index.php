@@ -2,10 +2,10 @@
 
 include "oauthstuff/tweetoauth.php";
 
-$consumer_key = "9gTw0WOKueMOeMeGwg5v6KyGN";
-$consumer_secret = "2JrEdjC6MkI7hD3LziUWlMnMVAOwFhQokaauKQtAYT2BF3LWMf";
-$access_token = "905959971908608000-i5HNoiDVVHwCv084boJNb2XpBKC6DSk";
-$access_token_secret = "cL2Z90SdaeFWOOyfO5J5lA04Q370Fe0CvMVns4L5M3hsa";
+$consumer_key = "hidden";
+$consumer_secret = "hidden";
+$access_token = "hidden";
+$access_token_secret = "hidden";
 
 $twitter = new TwitterOAuth($consumer_key,$consumer_secret,$access_token,$access_token_secret);
 
