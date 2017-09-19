@@ -1,0 +1,19 @@
+
+body
+{
+     background-color: #000;   
+}
+
+
+.content
+{
+    margin: auto;
+    width: 60%;
+    border: 3px solid white;
+    padding: 50px;
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
